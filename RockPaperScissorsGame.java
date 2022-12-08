@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.*;
 
-public class RockPaperScissorsGame_v2 {
+public class RockPaperScissorsGame {
     
     public static void main(String[] args){
         // choices of Rock Paper Scissors
